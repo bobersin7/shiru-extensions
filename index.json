@@ -1,0 +1,12 @@
+[
+  {
+    "id": "animetosho",
+    "name": "AnimeTosho",
+    "version": "1.0.0",
+    "main": "sources/animetosho.js",
+    "type": "torrent",
+    "speed": "fast",
+    "accuracy": "high",
+    "description": "Searches <a href=\"https://animetosho.org\">AnimeTosho</a> — a mirror of Nyaa & TokyoTosho with a CORS-enabled JSON API. Supports episode, batch, and movie lookups, with AniDB ID matching for highest accuracy."
+  }
+]
